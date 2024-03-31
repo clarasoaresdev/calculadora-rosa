@@ -1,4 +1,3 @@
-# Calculadora Rosa
 # **Sobre a Calculadora**
 
 A calculadora possui as quatro operações básicas, foi construída baseada em um vídeo do youtube, do canal "Gustavo Neitzke". Segue o link:
